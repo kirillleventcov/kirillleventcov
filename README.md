@@ -1,3 +1,3 @@
 ### Hi 👋
 
-@swafox personal account for open-source projects.
+👉 [@swafox](https://github.com/Swafox) personal account for open-source projects.
